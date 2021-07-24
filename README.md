@@ -1,6 +1,3 @@
-# go-tickets-api
-Basic API made with golang programming language, Gorilla/Mux, Gorm and Docker
-
 # Restful API basica de Tickets
 
 API basica que permite crear, eliminar, actualizar y listar tickes, usando postgresql como gestor de base de datos, golang, y docker.
